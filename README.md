@@ -1,3 +1,4 @@
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=l22212381-cyber/MSFP3)
 # Práctica 3 — Modelado y control del sistema musculoesquelético
 
 Repositorio académico de **Modelado de Sistemas Fisiológicos**, Ingeniería Biomédica, Tecnológico Nacional de México / Instituto Tecnológico de Tijuana.
@@ -106,7 +107,6 @@ Estos valores pertenecen al circuito equivalente. La equivalencia matemática no
 
 **Figura 1.** Representación biológica de los elementos del modelo musculoesquelético: fuerza contráctil, desplazamientos, comportamiento viscoso y elementos elásticos. Imagen proporcionada para la práctica, elaborada en BioRender; se conservan los créditos incluidos en ella.
 
-Para visualizarla en GitHub, colocar `diagrama_biologico.jpeg` en la misma carpeta que `README.md`.
 
 | Elemento del diagrama | Relación con el modelo |
 |---|---|
